@@ -5,7 +5,7 @@ I’m a developer passionate about technology and innovation, with experience in
 
 Languages: HTML, CSS, JavaScript
 Frameworks: Bootstap, SASS, Tailwind and React
-Tools: Git
+Tools: Figma and Git
 
 🔭 Featured Projects:
 

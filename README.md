@@ -3,9 +3,9 @@ I’m a developer passionate about technology and innovation, with experience in
 
 💻 Technologies I Use the Most:
 
-Languages: HTML, CSS, JavaScript
-Frameworks: Bootstap, SASS, Tailwind and React
-Tools: Figma and Git
+- Languages: HTML, CSS, JavaScript
+- Frameworks: Bootstap, SASS, Tailwind and React
+- Tools: Figma and Git
 
 🔭 Featured Projects:
 

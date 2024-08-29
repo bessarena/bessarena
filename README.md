@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi! I'm Bessa
+I’m a developer passionate about technology and innovation, with experience in web development. I enjoy creating efficient and creative solutions for complex problems.
 
-<!--
-**bessarena/bessarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technologies I Use the Most:
 
-Here are some ideas to get you started:
+Languages: HTML, CSS, JavaScript
+Frameworks: Bootstap, SASS, Tailwind and React
+Tools: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Featured Projects:
+
+- Netflix if it owned IMDB ([repository link](https://github.com/bessarena/odin-project)): I love movies and sometimes I want to watch a good movie with good reviews and I have to change apps. What if Netflix owned IMDB and could sort movies by rating?
+- Weeakly Learner ([repository link](https://github.com/bessarena/odin-project)): Website that suggests a new topic or skill to learn each week, encouraging continuous personal growth. It aims to keep users engaged by offering fresh and diverse learning opportunities regularly.
+
+🌱 Always Learning: Currently, I’m exploring more about Tailwind.
+
+📫 Get in Touch: diogoasmbessa@gmail.com | linkedin.com/in/diogombessa/ | diogombessa.com
